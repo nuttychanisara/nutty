@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chanisara Thippan | System Analyst Resume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Chanisara Thippan</h1>
+        <p>📍 Bangkok, Thailand | 📧 nutty.chanisara123@gmail.com | 📞 099-320-6894</p>
+    </header>
+
+    <section id="about">
+        <h2>🎓 Education</h2>
+        <p><strong>King Mongkut’s University of Technology North Bangkok</strong> (2021 - Present)</p>
+        <p>Bachelor of Science in Mathematics with Computer Science (GPA: 3.37)</p>
+    </section>
+
+    <section id="experience">
+        <h2>💼 Experience</h2>
+        <h3>System Analyst Intern - Fujitsu (Thailand) Co., Ltd (May 2024 - March 2025)</h3>
+        <ul>
+            <li>Participated in SIT & UAT for DOS system.</li>
+            <li>Created Test Cases & User Manuals.</li>
+            <li>Conducted manual testing to ensure system stability.</li>
+            <li>Tracked bugs using Jira & collaborated with developers.</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>📂 University Projects</h2>
+        
+        <h3>Credit Card Default Analysis & Prediction (2024)</h3>
+        <ul>
+            <li>Used Machine Learning (Decision Tree, Random Forest, K-Means Clustering).</li>
+            <li>Achieved highest accuracy (74.87%) with Random Forest.</li>
+            <li>Developed dashboard using Power BI.</li>
+        </ul>
+
+        <h3>Business Intelligence Project (2023)</h3>
+        <ul>
+            <li>Forecasted employee promotions using data analysis.</li>
+            <li>Applied CRISP-DM methodology for insights.</li>
+        </ul>
+
+        <h3>Database Management System Project</h3>
+        <ul>
+            <li>Designed & implemented a DBMS for a cafe.</li>
+            <li>Built database in SQL Server, integrated with C#.</li>
+        </ul>
+    </section>
+
+    <section id="skills">
+        <h2>🛠 Skills</h2>
+        <ul>
+            <li>👨‍💻 Programming: C#, Python, SQL</li>
+            <li>📊 Tools: Jira, Power BI, Figma, Visual Studio</li>
+            <li>📑 System Analysis: UML, ER-Diagram, Business Process Modeling</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>📧 Contact: nutty.chanisara123@gmail.com | 🔗 <a href="#">GitHub</a> | 🔗 <a href="#">LinkedIn</a></p>
+    </footer>
+
+</body>
+</html>
